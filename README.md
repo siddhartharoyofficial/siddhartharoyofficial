@@ -2,11 +2,11 @@
 
 **`Cloud Engineer`**
 
-I am a Cloud and DevOps Engineer ☁️, AWS Community Builder 🏗️, and Trader 📺. Passionate about learning about Cloud and DevOps Technolgies.
+I am a Cloud and DevOps Engineer, AWS Community Builder, and Trader . Passionate about learning about Cloud and DevOps Technolgies.
 
 ---
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Orchestration Tools**
 - 👨‍💻 All of my projects are available at [https://github.com/siddhartharoyofficial](https://github.com/siddhartharoyofficial)
 - 💬 Ask me about **Cloud and DevOps ☁️**
 - 📫 Reach out to me at **siddhartharoyofficial@gmail.com**
