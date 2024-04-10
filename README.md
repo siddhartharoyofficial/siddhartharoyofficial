@@ -18,7 +18,7 @@ I am a Cloud and DevOps Engineer ☁️, AWS Community Builder 🏗️, and Trad
 ### 📊 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartharoyofficial&show_icons=true&locale=en&layout=compact" alt="siddhartharoyofficial" /></p>
 
-## <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhartharoyofficial&show_icons=true&locale=en" alt="siddhartharoyofficial" /></p>
+## &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhartharoyofficial&show_icons=true&locale=en" alt="siddhartharoyofficial" /></p>
 
 ### 🏄‍♂️ Connect with me
    <p align="left">
