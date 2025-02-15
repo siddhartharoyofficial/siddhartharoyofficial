@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Siddhartha
 
-**`Cloud Engineer`**
+**`Senior Software Engineer`**
 
-I am a Cloud and DevOps Engineer, AWS Community Builder, and Trader. Passionate about learning about Cloud and DevOps Technolgies.
+I am a Cloud and Software Engineer, AWS Community Builder, and Trader. Passionate about learning about Cloud and DevOps Technolgies.
 
 ---
 
