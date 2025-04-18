@@ -1,16 +1,15 @@
-### Hi 👋, I'm Siddhartha
+Hi 👋, I'm Siddhartha
+Senior Software Engineer
 
-**`Senior Software Engineer`**
+Cloud and Software Engineer | AWS Community Builder | Lifelong Learner
+Passionate about Cloud, DevOps, and Security, and constantly evolving with cutting-edge technologies.
 
-I am a Cloud and Software Engineer, AWS Community Builder, and Lifelong Learner.
-Passionate about learning Cloud and DevOps technologies.
-
----
-
-- 🌱 I’m currently learning **DevSecOps**
-- 👨‍💻 Projects: [github.com/siddhartharoyofficial](https://github.com/siddhartharoyofficial)
-- 💬 Ask me about **Cloud, DevOps, and Security ☁️**
-- 📫 Reach me at **siddhartharoyofficial@gmail.com**
+🌱 Currently diving deep into DevSecOps and its real-world applications
+👨‍💻 Explore my work at github.com/siddhartharoyofficial
+💬 Let’s chat about Cloud, DevOps, and Security ☁️ — I love solving complex challenges
+📫 Reach out via siddhartharoyofficial@gmail.com
+🌐 Always looking for new projects and collaborations — feel free to connect!
+🔭 Fun fact: When I’m not coding, you’ll probably find me learning about the latest in tech or exploring new cloud services.
 
 ---
 ### 🧰 Languages and Tools
