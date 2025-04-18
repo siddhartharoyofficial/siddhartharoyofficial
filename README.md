@@ -2,7 +2,7 @@
 
 **`Senior Software Engineer`**
 
-I am a Cloud and Software Engineer, AWS Community Builder, and Trader.  
+I am a Cloud and Software Engineer, AWS Community Builder, and Lifelong Learner.
 Passionate about learning Cloud and DevOps technologies.
 
 ---
