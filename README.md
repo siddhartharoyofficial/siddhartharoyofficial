@@ -20,11 +20,14 @@ Passionate about learning Cloud and DevOps technologies.
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/cisco-6.svg" alt="Cisco" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/O/oracle-cloud-infrastructure-oci-logo-5C68C8056B-seeklogo.com.png" alt="OCI" width="40" height="40"/>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
@@ -35,11 +38,8 @@ Passionate about learning Cloud and DevOps technologies.
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="Networking" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Computer_security" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" alt="Security" width="40" height="40"/>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>
 
