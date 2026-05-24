@@ -90,14 +90,6 @@ When I’m not working on cloud infrastructure or DevOps pipelines, I’m learni
   </a>
 </p>
 
-
-
-### 📊 Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartharoyofficial&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🏄‍♂️ Connect
