@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Siddhartha
 
-**`Senior Software Engineer`**
+**`Senior Site Reliability Engineer`**
 
 I’m a Cloud and Software Engineer, AWS Community Builder, and a Lifelong Learner.  
 Passionate about **Cloud**, **DevOps**, and **Security**, and continuously exploring cutting-edge technologies.
